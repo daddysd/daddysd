@@ -2,7 +2,7 @@
 <h1>Hi guys 👋 Welcome to my github profile <img align="right" src="https://komarev.com/ghpvc/?username=daddysd&color=green" /></h1>
 
 ❓ Hi I'm daddysd 18 years old <br>
-🛠️ html,js,java developer <br>
+🛠️ html,js,java,python developer <br>
 🌐 Discord: <b>daddysd<b> 
 
 <h2>📱 Social Media</h2>
